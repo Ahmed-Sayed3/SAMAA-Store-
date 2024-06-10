@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Supply Chain Backend.props" />
+</Project>
